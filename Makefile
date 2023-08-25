@@ -1,3 +1,3 @@
 
-make say-hello:
+say-hello:
 	Hello, World!
